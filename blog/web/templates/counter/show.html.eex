@@ -1,0 +1,5 @@
+<h2>Show counter</h2>
+
+<div class="counter">
+  <%= @counter %>
+</div>
