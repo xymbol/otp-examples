@@ -4,7 +4,7 @@ A number of code examples with accompanying tests written for the “OTP,
 Concurrency and Testing Strategies” talk,
 [presented](https://www.meetup.com/montrealelixir/events/238411707/) in Montreal
 Elixir, April 12th, 2017. Slides are
-[available](https://www.slideshare.net/xymbol/otp-concurrency-and-testing-strategies-75104430)
+[available](https://speakerdeck.com/xymbol/otp-concurrency-and-testing-strategies)
 for this talk.
 
 ## What's included
