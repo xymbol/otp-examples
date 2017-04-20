@@ -4,9 +4,9 @@ A counter server added to a Phoenix app.
 
 ## What it demonstrates
 
-- Server started from Phoenix app supervisor.
-- Counter read from concurrent requests.
-- Server tests added to project.
+- Server started from a Phoenix app supervisor
+- Counter read from concurrent requests
+- Server tests added to project
 
 ## Questions?
 

@@ -4,9 +4,9 @@ A shared counter server.
 
 ## What it demonstrates
 
-- Server can start with optional count.
-- Counter incremented on `read` calls.
-- Tests for client functions.
+- Server started with optional initial count
+- Counter incremented on `Counter.read/1` calls
+- Tests for client functions
 
 ## Questions?
 

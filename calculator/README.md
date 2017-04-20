@@ -4,9 +4,9 @@ A simple stack calculator server.
 
 ## What it demonstrates
 
-- Requests handled with pattern matching.
-- Choice of async and sync server calls.
-- Handler tests for complex state.
+- Requests handled with pattern matching
+- When to use async and sync server calls
+- Handler tests for complex states
 
 ## Questions?
 

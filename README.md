@@ -9,7 +9,7 @@ for this talk.
 
 ## What's included
 
-* [`adder`](adder): server to add values and compute total
+* [`adder`](adder): server to add values and return total
 * [`blog`](blog): counter server added to a Phoenix app
 * [`calculator`](calculator): simple stack calculator server
 * [`counter`](counter): shared counter server
@@ -29,7 +29,7 @@ iex> Counter.stop pid
 
 ## How to run tests
 
-For each project do `mix test` to run tests.
+For each project, do `mix test` to run tests.
 
 ## Author
 
