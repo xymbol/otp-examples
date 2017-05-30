@@ -1,5 +1,7 @@
 # Server examples in Elixir with tests
 
+[![Build Status](https://travis-ci.org/xymbol/otp-examples.svg?branch=master)](https://travis-ci.org/xymbol/otp-examples)
+
 A number of code examples with accompanying tests written for the “OTP,
 Concurrency and Testing Strategies” talk,
 [presented](https://www.meetup.com/montrealelixir/events/238411707/) in Montreal
@@ -19,7 +21,7 @@ for this talk.
 
 ## How to use interactively
 
-For most examples, do `iex -S mix` from the project:
+For each example, do `iex -S mix` from the project folder:
 
 ```elixir
 iex> {:ok, pid} = Counter.start_link
@@ -29,7 +31,8 @@ iex> Counter.stop pid
 
 ## How to run tests
 
-For each project, do `mix test` to run tests.
+For each example, do `mix test` to run tests. You can also do `mix test` from
+the parent folder to run all tests.
 
 ## Author
 
