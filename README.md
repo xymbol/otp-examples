@@ -31,8 +31,8 @@ iex> Counter.stop pid
 
 ## How to run tests
 
-For each example, do `mix test` to run tests. You can also do `mix test` from
-the parent folder to run all tests.
+For each example, do `mix test` to run tests. To run all tests in all examples,
+do `mix test` from the parent folder.
 
 ## Author
 
